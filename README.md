@@ -1,2 +1,2 @@
 # Vidly
-THe point of this repository is to practice a restful api for the back end.
+The point of this repository is to practice a restful api using Express.js for the back end.
