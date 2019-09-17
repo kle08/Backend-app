@@ -1,0 +1,23 @@
+{
+  "name": "VidlyApp",
+  "version": "1.0.0",
+  "description": "The point of this repository is to practice a restful api using Express.js for the back end. - Create the back end services of a rental movie app that manage the end points of the list of genres.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kle08/VidlyApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kle08/VidlyApp/issues"
+  },
+  "homepage": "https://github.com/kle08/VidlyApp#readme",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
